@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 import AuthProviders from './AuthProviders';
 
-import { NavLinks } from '@/constants';
+import { NavLinks } from '@/constant';
 
 const Navbar = () => {
   const session = null;

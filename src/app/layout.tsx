@@ -1,6 +1,7 @@
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import './globals.css';
+
+import '../app/globals.css';
 
 export const metadata = {
   title: 'Flexibble', // titulo de la ventana
